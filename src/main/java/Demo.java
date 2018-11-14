@@ -6,6 +6,10 @@
  */
 public class Demo {
 
+    /**
+     * 2号添加一些方法
+     * @param args
+     */
     public static void main(String[] args) {
         System.out.println("明天星期四");
     }
